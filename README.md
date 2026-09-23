@@ -33,12 +33,18 @@ Tengo experiencia probada diseñando y desplegando soluciones de software en pro
 
 ## 💼 Proyectos Destacados (Showcase)
 
-### 1. [CIGO — Control Inteligente de Gastos Operativos & Flotas](https://github.com/Luis-tb) *(AI SaaS)*
+### 1. CIGO — Control Inteligente de Gastos Operativos & Flotas *(AI SaaS)*
+
+[![Ver Video Demostración](https://img.shields.io/badge/Ver_Demostración_en_Video-YouTube%20(Shorts)-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/shorts/Lm18VLD4zhQ)
+[![Tipo](https://img.shields.io/badge/Proyecto-Comercial%20en%20Producción-blue?style=for-the-badge)](#)
+
 > **Plataforma distribuida para la captura, extracción y auditoría automatizada de viáticos de transporte en carretera mediante WhatsApp e Inteligencia Artificial.**
+> 
+> 🔒 *Código fuente privado por confidencialidad comercial. Puedes ver el funcionamiento real para los choferes en el [Video Demo en YouTube (Shorts)](https://youtube.com/shorts/Lm18VLD4zhQ). Demostración en vivo y revisión de arquitectura disponibles en entrevista técnica.*
 
 * **El Reto:** Los conductores en ruta perdían comprobantes físicos y demoraban hasta 15 días en rendir cuentas, generando sobrecarga manual y errores en el área contable.
 * **La Solución:** 
-  - Canal de captura cero-fricción por **WhatsApp**: el chofer envía una foto del ticket o factura en el momento del gasto.
+  - Canal de captura cero-fricción por **WhatsApp**: el chofer envía una foto del ticket o factura en el momento del gasto (combustible, peajes, alimentos).
   - Procesamiento asíncrono con **Redis y BullMQ** para alta disponibilidad y tolerancia a fallos.
   - Extracción estructurada de datos fiscales (RUC, montos, IGV, kilometraje) con **Gemini Multimodal AI**.
   - Panel web en **Next.js 16 (React 19)** con validaciones contables y base de datos **PostgreSQL / Supabase** con aislamiento multi-tenant por RLS.
@@ -46,8 +52,13 @@ Tengo experiencia probada diseñando y desplegando soluciones de software en pro
 
 ---
 
-### 2. [Devorq Enterprise — Sistema SaaS de Inventarios & Operaciones](https://github.com/Luis-tb)
+### 2. Devorq Enterprise — Sistema SaaS de Inventarios & Operaciones
+
+[![Tipo](https://img.shields.io/badge/Proyecto-Implementado%20en%20Llacuabamba-green?style=for-the-badge)](#)
+
 > **Ecosistema multiplataforma (Web + Admin + Mobile) para gestión crítica de existencias implementado para contratista de transporte y suministros en Llacuabamba.**
+> 
+> 🔒 *Código fuente privado comercial. Walkthrough completo de arquitectura, base de datos y código disponible en entrevista técnica.*
 
 * **El Reto:** La empresa operaba con registros analógicos y hojas de cálculo desincronizadas, causando pérdidas constantes por discrepancias de inventario.
 * **La Solución:** 
