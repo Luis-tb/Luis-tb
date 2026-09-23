@@ -71,8 +71,7 @@ Tengo experiencia probada diseñando y desplegando soluciones de software en pro
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis-tb&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-tb&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com/?user=Luis-tb&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
