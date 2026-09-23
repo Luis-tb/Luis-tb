@@ -79,13 +79,6 @@ Tengo experiencia probada diseñando y desplegando soluciones de software en pro
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Luis-tb&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</div>
-
----
 
 ## 📬 Contacto
 ¿Interesado en colaborar o discutir una oportunidad laboral?
