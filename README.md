@@ -71,11 +71,11 @@ Tengo experiencia probada diseñando y desplegando soluciones de software en pro
 
 ---
 
-### 3. [API Consulta RUC — Microservicio Contenerizado de Validación Fiscal](https://github.com/Luis-tb/CONSULTAR-RUC)
-> **Microservicio RESTful para consulta y validación automatizada de información tributaria de personas y empresas desde el portal de SUNAT.**
+### 3. [Peru Consultas API — Suite de Integración Fiscal & Previsional (SUNAT / SBS)](https://github.com/Luis-tb/peru-consultas-api)
+> **Suite RESTful en Python y Selenium Headless para consultas tributarias (RUC, DNI, Tipo de Cambio Oficial, Padrones, Validación CPE) y previsionales (AFP SBS) diseñada para integrarse con sistemas ERP.**
 
-* **La Solución:** Servicio contenerizado con Docker que extrae en tiempo real el estado tributario, condición de domicilio y razón social para integraciones en sistemas contables y de facturación.
-* **Stack:** `Python` • `Flask` • `Docker` • `Docker Compose` • `Web Scraping`
+* **La Solución:** Servicio contenerizado con Docker que automatiza consultas fiscales y laborales en tiempo real, evadiendo protecciones antibot de Cloudflare, midiendo tiempos de respuesta (<2s) y estructurando datos para ERPs y facturación electrónica.
+* **Stack:** `Python` • `Flask` • `Selenium (Headless Chrome)` • `Docker` • `Docker Compose` • `JWT` • `Web Scraping`
 
 ---
 
